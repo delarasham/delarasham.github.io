@@ -24,7 +24,7 @@ const Intro = () => {
             <p>
               My long term career goal is to work in DevSecOps and/or jobs
               related to Cloud Infrastructure and Security. In my free time I
-              like to paint and listent to podcasts/audiobooks.
+              like to paint and listen to podcasts/audiobooks.
             </p>
             <p>
               You can contact me via
