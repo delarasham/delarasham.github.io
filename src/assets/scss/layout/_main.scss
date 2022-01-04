@@ -18,7 +18,7 @@
   // position: relative;
   // max-width: 100%;
   // z-index: 3;
-  //
+
   background-color: transparent;
   border-radius: _size(border-radius-main);
 
@@ -127,7 +127,7 @@
   // dimension main
 
   article {
-    @include vendor('transform', 'translateY(0.25rem)');
+    // @include vendor('transform', 'translateY(0.25rem)');
     @include vendor(
       'transition',
       (

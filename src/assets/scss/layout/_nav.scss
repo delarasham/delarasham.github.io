@@ -20,6 +20,7 @@
   position: absolute;
   width: _size(inner);
   max-width: calc(100% - #{_size(element-margin) * 2});
+  // max-width: calc(100% - 4em);
   padding: 1em;
   // background-color: _palette(invert, bg-alt);
   background-color: transparent;

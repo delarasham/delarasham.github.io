@@ -295,76 +295,76 @@
     //   }
     // }
 
-    @include breakpoint(small) {
-      > * {
-        margin-top: 2rem;
+    // @include breakpoint(small) {
+    //   > * {
+    //     margin-top: 2rem;
 
-        &:before {
-          top: calc(-2rem - 1px);
-          height: calc(2rem + 1px);
-        }
-      }
+    //     &:before {
+    //       top: calc(-2rem - 1px);
+    //       height: calc(2rem + 1px);
+    //     }
+    //   }
 
-      .logo {
-        width: 4.75rem;
-        height: 4.75rem;
-        line-height: 4.75rem;
+    //   .logo {
+    //     width: 4.75rem;
+    //     height: 4.75rem;
+    //     line-height: 4.75rem;
 
-        .icon {
-          &:before {
-            font-size: 1.75rem;
-          }
-        }
-      }
-
-      .content {
-        .inner {
-          padding: 2.5rem 1rem;
-        }
-
-        p {
-          line-height: 1.875;
-        }
-      }
-    }
-
-    // @include breakpoint(xsmall) {
-    //   padding: 1.5rem 0;
+    //     .icon {
+    //       &:before {
+    //         font-size: 1.75rem;
+    //       }
+    //     }
+    //   }
 
     //   .content {
     //     .inner {
-    //       padding: 2.5rem 0;
+    //       padding: 2.5rem 1rem;
+    //     }
+
+    //     p {
+    //       line-height: 1.875;
+    //     }
+    //   }
+    // }
+
+    // // @include breakpoint(xsmall) {
+    // //   padding: 1.5rem 0;
+
+    // //   .content {
+    // //     .inner {
+    // //       padding: 2.5rem 0;
+    // //     }
+    // //   }
+
+    // nav {
+    //   ul {
+    //     @include vendor('flex-direction', 'column');
+    //     min-width: 10rem;
+    //     max-width: 100%;
+
+    //     li {
+    //       border-left: 0;
+    //       border-top: solid _size(border-width) _palette(border);
+
+    //       &:first-child {
+    //         border-top: 0;
+    //       }
+
+    //       a {
+    //         height: 3rem;
+    //         line-height: 3rem;
+    //         min-width: 0;
+    //         width: 100%;
+    //       }
     //     }
     //   }
 
-    //   nav {
-    //     ul {
-    //       @include vendor('flex-direction', 'column');
-    //       min-width: 10rem;
-    //       max-width: 100%;
-
-    //       li {
-    //         border-left: 0;
-    //         border-top: solid _size(border-width) _palette(border);
-
-    //         &:first-child {
-    //           border-top: 0;
-    //         }
-
-    //         a {
-    //           height: 3rem;
-    //           line-height: 3rem;
-    //           min-width: 0;
-    //           width: 100%;
-    //         }
-    //       }
-    //     }
-
-    //     &.use-middle {
-    //       &:after {
-    //         display: none;
-    //       }
+    //   &.use-middle {
+    //     &:after {
+    //       display: none;
     //     }
     //   }
+    // }
   }
 }
