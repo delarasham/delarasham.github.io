@@ -9,7 +9,7 @@ const Skills = () => {
     <section id="second" className="main special">
       <div className="spotlight">
         <div className="content">
-          <header className="major" style={{ textAlign: 'left' }}>
+          <header className="major">
             <h2>Skills</h2>
           </header>
           <div className="skills ">
