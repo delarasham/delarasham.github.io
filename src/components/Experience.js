@@ -89,7 +89,7 @@ const Experience = () => {
                 </div>
                 <div class="timeline-body">
                   <h4 class="timeline-title">
-                    <span class="badge">Mitacs and Univesity of Calgary</span>
+                    <span class="badge">Mitacs and University of Calgary</span>
                   </h4>
                   <h4 class="timeline-title">
                     <span class="badge-title">Research Intern</span>
