@@ -13,7 +13,7 @@ const Skills = () => {
             <h2>Skills</h2>
           </header>
           <div className="skills ">
-            <h3 className="skills ">Programming Languages</h3>
+            <h3 className="skills ">Languages {'&'} Frameworks</h3>
             <ul className="actions skills">
               <li className="skills icon style4">
                 <i class="devicon-c-line-wordmark"></i>
@@ -24,11 +24,22 @@ const Skills = () => {
               <li className="skills icon style4">
                 <i class="devicon-java-plain-wordmark"></i>
               </li>
+
               <li className="skills icon style4">
                 <i class="devicon-python-plain-wordmark"></i>
               </li>
               <li className="skills icon style4">
                 <FontAwesomeIcon icon={['fab', 'js-square']} size="5x" />
+              </li>
+
+              <li className="skills icon style4">
+                <i class="devicon-bash-plain"></i>
+              </li>
+              <li className="skills icon style4">
+                <i class="devicon-react-original-wordmark"></i>
+              </li>
+              <li className="skills icon style4">
+                <i class="devicon-html5-plain-wordmark"></i>
               </li>
             </ul>
           </div>
@@ -44,6 +55,15 @@ const Skills = () => {
               </li>
               <li className="skills icon style4">
                 <FontAwesomeIcon icon={['fab', 'aws']} size="4x" />
+              </li>
+              <li className="skills icon style4">
+                <i class="devicon-git-plain"></i>
+              </li>
+              <li className="skills icon style4">
+                <i class="devicon-github-original-wordmark"></i>
+              </li>
+              <li className="skills icon style4">
+                <i class="devicon-gitlab-plain-wordmark"></i>
               </li>
 
               <li className="skills icon style4">

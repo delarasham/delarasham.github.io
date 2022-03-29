@@ -80,7 +80,7 @@ const Experience = () => {
                       </li>
                     </ul>
                   </p>
-                  <p class="timeline-subtitle">November 2019 - Present</p>
+                  <p class="timeline-subtitle">November 2019 - January 2022</p>
                 </div>
               </div>
               <div class="timeline-container ">
