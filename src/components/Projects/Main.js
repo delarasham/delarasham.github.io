@@ -108,11 +108,12 @@ class Main extends React.Component {
           <p>
             <a
               className="button"
-              href="https://pr.iva.cy/rubie-cubeman/"
+              // href="https://pr.iva.cy/rubie-cubeman/"
+              href="https://github.com/zgilchrist/CPSC-329-Unessay"
               target="_blank"
               rel="noreferrer"
             >
-              <span className="label">Visit Website</span>
+              <span className="label">Source Code</span>
             </a>
           </p>
           {close}
