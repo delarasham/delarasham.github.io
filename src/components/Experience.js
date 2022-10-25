@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assets/pdf/Delara-Shamanian-Resume-2022.pdf'
+import resume from '../assets/pdf/Delara-Shamanian-Resume-Oct-2022.pdf'
 const Experience = () => {
   return (
     <section id="cta" className="main">
@@ -12,6 +12,43 @@ const Experience = () => {
           <div class="container">
             <div class="timeline">
               <div class="timeline-container ">
+                <div class="timeline-icon icon fa-terminal">
+                  <i class="far fa-grin-wink"></i>
+                </div>
+                <div class="timeline-body">
+                  <h4 class="timeline-title">
+                    <span class="badge">Stream Systems Ltd.</span>
+                  </h4>
+                  <h4 class="timeline-title">
+                    <span class="badge-title">Developer/QA Intern</span>
+                  </h4>
+                  <p>
+                    <ul>
+                      <li>
+                        Assist system administrator with improvement and
+                        management of our cloud infrstaturce
+                      </li>
+                      <li>
+                        Collaborate with the back-end development team to
+                        achieve MVP goals
+                      </li>
+                      <li>
+                        Coded Bash scripts to automate the creation of new
+                        services as well as enhance already setup automation
+                        pipeline
+                      </li>
+                      <li>
+                        Researched and Explored various Testing techniques for
+                        Microservice to assist the QA lead with setting up
+                        automated tests for our services
+                      </li>
+                    </ul>
+                  </p>
+                  <p class="timeline-subtitle">May 2022 - Present</p>
+                </div>
+              </div>
+
+              <div class="timeline-container ">
                 <div class="timeline-icon icon fa-user-secret">
                   <i class="far fa-grin-wink"></i>
                 </div>
@@ -22,7 +59,7 @@ const Experience = () => {
                     </span>
                   </h4>
                   <h4 class="timeline-title">
-                    <span class="badge-title">Director</span>
+                    <span class="badge-title">VP Tech</span>
                   </h4>
                   <p>
                     <ul>

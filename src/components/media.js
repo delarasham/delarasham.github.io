@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assets/pdf/Delara-Shamanian-Resume-2022.pdf'
+import resume from '../assets/pdf/Delara-Shamanian-Resume-Oct-2022.pdf'
 const Media = () => {
   return (
     <div>

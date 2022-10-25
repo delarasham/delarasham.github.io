@@ -24,7 +24,9 @@ const Skills = () => {
               <li className="skills icon style4">
                 <i class="devicon-java-plain-wordmark"></i>
               </li>
-
+              <li className="skills icon style4">
+                <i class="devicon-kotlin-plain-wordmark"></i>
+              </li>
               <li className="skills icon style4">
                 <i class="devicon-python-plain-wordmark"></i>
               </li>
@@ -41,6 +43,9 @@ const Skills = () => {
               <li className="skills icon style4">
                 <i class="devicon-html5-plain-wordmark"></i>
               </li>
+              <li className="skills icon style4">
+                <i class="devicon-spring-plain-wordmark"></i>
+              </li>
             </ul>
           </div>
 
@@ -49,6 +54,9 @@ const Skills = () => {
             <ul className="actions">
               <li className="skills icon style4">
                 <i class="devicon-docker-plain-wordmark"></i>
+              </li>
+              <li className="skills icon style4">
+                <i class="devicon-kubernetes-plain-wordmark"></i>
               </li>
               <li className="skills icon style4">
                 <i class="devicon-digitalocean-plain-wordmark"></i>
@@ -65,7 +73,9 @@ const Skills = () => {
               <li className="skills icon style4">
                 <i class="devicon-gitlab-plain-wordmark"></i>
               </li>
-
+              <li className="skills icon style4">
+                <i class="devicon-jenkins-plain"></i>
+              </li>
               <li className="skills icon style4">
                 <FontAwesomeIcon icon={['fab', 'cloudflare']} size="4x" />
               </li>

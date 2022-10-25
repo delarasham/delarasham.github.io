@@ -11,15 +11,20 @@ const Intro = () => {
           </header>
           <p>
             <p>
-              I'm a third-year Computer Science undergraduate student at the
-              University of Calgary. My main focus is Information Security, but
-              I'm also minoring in Mathematics.
+              Hi there! My name is Delara Shamanian. I'm a forth-year Computer
+              Science undergraduate student at the University of Calgary. My
+              main focus is Information Security, but I'm also minoring in
+              Mathematics.
             </p>
             <p>
-              Since May 2021, I have been a Director at the University of
-              Calgary's Infomation Security Club. I am currently developing and
-              managing the cloud infrastructure for an upcoming Capture the Flag
-              competition hosted by the club.
+              Since May 2022, I have been an Intern at Stream Systems Ltd. I do devops, development and sometimes QA work.
+              I usually work on back-end development and mainly use Kolin or Java. I also work with Jenkins, Kubernetes,
+              and Docker regarding my devops work. 
+            </p>
+            <p>
+              Aside from my internship, I am also a VP Tech at the University of
+              Calgary's Infomation Security Club. I am responsible for creating and
+              managing the cloud infrastructure for our CTF as well as our workshop challenges.
             </p>
             <p>
               My long term career goal is to work in DevSecOps and/or jobs

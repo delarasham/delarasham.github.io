@@ -5,8 +5,6 @@ const Header = (props) => (
     <span className="logo">
       <img src={logo} alt="" />
     </span>
-    <h1>Hi, I'm Delara Shamanian</h1>
-    <p> Welcome to My Personal Website &#128512;</p>
   </header>
 )
 
