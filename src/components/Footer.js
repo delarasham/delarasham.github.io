@@ -5,7 +5,7 @@ const Footer = (props) => (
   <footer id="footer">
     <p className="copyright">
       <p>
-        Delara Shamanian © 2022 | Built with{' '}
+        Delara Shamanian © 2022 - Present | Built with{' '}
         <a
           href="https://www.gatsbyjs.org"
           class=""

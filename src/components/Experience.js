@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assets/pdf/Delara-Shamanian-Resume-Oct-2022.pdf'
+import resume from '../assets/pdf/Delara-Shamanian-Resume-2024.pdf'
 const Experience = () => {
   return (
     <section id="cta" className="main">
@@ -20,27 +20,25 @@ const Experience = () => {
                     <span class="badge">Stream Systems Ltd.</span>
                   </h4>
                   <h4 class="timeline-title">
-                    <span class="badge-title">Developer/QA Intern</span>
+                    <span class="badge-title">DevOps Intern</span>
                   </h4>
                   <p>
                     <ul>
                       <li>
-                        Assist system administrator with improvement and
-                        management of our cloud infrstaturce
+                        Effectively orchestrated and managed containerized
+                        applications on Kubernetes, ensuring seamless
+                        deployment, scaling, and maintenance of microservices
                       </li>
                       <li>
-                        Collaborate with the back-end development team to
-                        achieve MVP goals
+                        Played a pivotal role in automating the CI/CD pipeline
+                        using Jenkins, streamlining the software delivery
+                        process and reducing manual interventions, which
+                        resulted in increased efficiency and reliability
                       </li>
                       <li>
-                        Coded Bash scripts to automate the creation of new
-                        services as well as enhance already setup automation
-                        pipeline
-                      </li>
-                      <li>
-                        Researched and Explored various Testing techniques for
-                        Microservice to assist the QA lead with setting up
-                        automated tests for our services
+                        Explored various testing techniques for microservices to
+                        support the QA lead in implementing automated testing
+                        for our services
                       </li>
                     </ul>
                   </p>
@@ -66,6 +64,7 @@ const Experience = () => {
                       <li>
                         Administer the cloud Infrastructure for the club's
                         annual capture the flag (CTF) competition MagpieCTF 2022
+                        and 2023
                       </li>
                       <li>
                         Improve and transition current cloud infrastructure from
@@ -73,11 +72,11 @@ const Experience = () => {
                       </li>
                       <li>
                         Compose Terraform scripts to automate hosting challenges
-                        for MagpieCTF 2022
+                        for MagpieCTF 2022 and 2023
                       </li>
                       <li>
                         Collaborated with the executive team to design and host
-                        the website for MagpieCTF 2022
+                        the website for MagpieCTF 2022 and 2023
                       </li>
                       <li>
                         Built and Delivered a hands-on workshop on frequently
@@ -85,7 +84,7 @@ const Experience = () => {
                       </li>
                     </ul>
                   </p>
-                  <p class="timeline-subtitle">October 2020 - Present</p>
+                  <p class="timeline-subtitle">October 2020 - May 2023</p>
                 </div>
               </div>
               <div class="timeline-container ">
